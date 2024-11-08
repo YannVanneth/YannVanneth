@@ -20,8 +20,9 @@
 <a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="60px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
 <a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="50px" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/130px-C_Sharp_Logo_2023.svg.png" /></a>
-<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" width="80px" style="padding:10px;" src="https://dart.dev/assets/img/logo/logo-white-text.svg" /></a>
+<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" width="120px" style="padding:10px;" src="https://dart.dev/assets/img/logo/logo-white-text.svg" /></a>
 </div>
+<br><br>
 
 ### Libraries and Frameworks
 
@@ -30,6 +31,7 @@
 <a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
 <a href="https://flutter.dev/?_gl=1*keza4j*_up*MQ..&gclid=Cj0KCQiAire5BhCNARIsAM53K1gauyfJvgIJDllJTBx5s208BtIHivUu78nACE4NGr_zg_eHEXCjl8saAiOtEALw_wcB&gclsrc=aw.ds" target="_blank"><img align="left" alt="Flutter" width="50px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" /></a>
 </div>
+<br><br>
 
 ### Database
 
@@ -37,6 +39,7 @@
  <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
   <a href="https://www.sqlite.org/" target="_blank"><img align="left" alt="Sqlite" width="40px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000" /></a>
 </div>
+<br><br>
 
 ### Tools
 
