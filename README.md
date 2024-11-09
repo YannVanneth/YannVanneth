@@ -1,4 +1,7 @@
-<h1> 💫 About Me  </h1>
+<h1> 💫 About Me  </h1> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YannVanneth&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="YannVanneth" /> </p>  
+  
 
 <h3>
   I'm Vanneth Yann.<br/>
