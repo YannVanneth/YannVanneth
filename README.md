@@ -13,17 +13,13 @@
 <h1> My Skills <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
 
-### Languages and Scripts
+### Programming Languages
 
 <div style="display: flex; align-items: center;">
-<a href="https://html.spec.whatwg.org/" target="_blank"><img align="left" alt="Html" width="45px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" /></a>
-<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img align="left" alt="Css" width="50px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" /></a>
-<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" alt="C" width="45px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000" /></a>
-<a href="https://en.cppreference.com/w/" target="_blank"><img align="left" alt="C++" width="60px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/c++.svg" /></a>
-<a href="https://www.w3schools.com/js/" target="_blank"><img align="left" alt="JavaScript" width="60px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/javascript.svg" /></a>
-<a href="https://www.java.com/" target="_blank"><img align="left" alt="Java" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/languages/java.svg" /></a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img align="left" alt="C#" width="50px" style="padding:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/130px-C_Sharp_Logo_2023.svg.png" /></a>
-<a href="https://dart.dev/" target="_blank"><img align="left" alt="Dart" width="120px" style="padding:10px;" src="https://dart.dev/assets/img/logo/logo-white-text.svg" /></a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width:5%"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width:5%"/>         
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" style="width:5%"/>      
+          
 </div>
 <br><br>
 
@@ -39,16 +35,17 @@
 ### Database
 
 <div style="display: flex; align-items: center;">
- <a href="https://www.mysql.com/" target="_blank"><img align="left" alt="MySQL" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/databases/mysql.svg" /></a>
-  <a href="https://www.sqlite.org/" target="_blank"><img align="left" alt="Sqlite" width="40px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=VMRAbKfEzssG&format=png&color=000000" /></a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width:5%"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width:5%"/>
+          
 </div>
 <br><br>
 
 ### Tools
 
 <div style="display: flex; align-items: center;">
-<a href="https://github.com/" target="_blank"><img align="left" alt="Github" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/tools/Github.svg" /></a>
-<a href="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="50px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" /></a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:5%"/>   
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:5%"/>         
 </div>
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
