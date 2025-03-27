@@ -12,41 +12,44 @@
 
 <h1> My Skills <a href="#-my-skill-sets--"><img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/skill.gif" width = 32px></a> </h1>
 
+<table></table>
 
-### Programming Languages
-
-<div style="display: flex; align-items: center;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width:5%"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width:5%"/>         
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" style="width:5%"/>      
-          
-</div>
-<br><br>
-
-### Libraries and Frameworks
+<h1>Programming Languages</h1>
 
 <div style="display: flex; align-items: center;">
-<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
-<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="50px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
-<a href="https://flutter.dev/?_gl=1*keza4j*_up*MQ..&gclid=Cj0KCQiAire5BhCNARIsAM53K1gauyfJvgIJDllJTBx5s208BtIHivUu78nACE4NGr_zg_eHEXCjl8saAiOtEALw_wcB&gclsrc=aw.ds" target="_blank"><img align="left" alt="Flutter" width="50px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" /></a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="width:80px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" style="width:80px"/>         
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" style="width:70px"/>      
 </div>
-<br><br>
+<br>
 
-### Database
+<h1>Libraries and Frameworks</h1> 
 
 <div style="display: flex; align-items: center;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width:5%"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width:5%"/>
-          
+<a href="https://react.dev/" target="_blank"><img align="left" alt="React" width="80px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/libraries/react.svg" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img align="left" alt="Tailwind CSS" width="80px" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/frameworks/tailwindcss.svg" /></a>
+<a href="https://flutter.dev/?_gl=1*keza4j*_up*MQ..&gclid=Cj0KCQiAire5BhCNARIsAM53K1gauyfJvgIJDllJTBx5s208BtIHivUu78nACE4NGr_zg_eHEXCjl8saAiOtEALw_wcB&gclsrc=aw.ds" target="_blank"><img align="left" alt="Flutter" width="80px" style="padding:10px;" src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" /></a>
 </div>
-<br><br>
 
-### Tools
+<br><br><br>
+
+<h1>Database</h1> 
 
 <div style="display: flex; align-items: center;">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:5%"/>   
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:5%"/>         
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style="width:80px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" style="width:80px"/>    
 </div>
+
+<br>
+
+<h1>Tools</h1> 
+
+<div style="display: flex; align-items: center;">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style="width:80px"/>   
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" style="width:80px"/>         
+</div>
+
+<br>
 
 <a href="#-my-skill-sets--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
 
@@ -65,10 +68,8 @@
         <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=YannVanneth&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="YannVanneth" /></a>
     </td>
     <td>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannVanneth&layout=compact"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannVanneth&layout=compact"/>
     </td>
-
-
   </tr>
 </table>
 
