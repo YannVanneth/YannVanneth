@@ -8,7 +8,7 @@
 
 <p>
   💻 I'm a passionate software developer who loves building apps, solving real-world problems, and learning new technologies. <br/>
-  🌱 Currently learning: Backend development with Java ( Spring ), php ( Laravel ), python, docker, and linux<br/>
+  🌱 Currently learning: Backend development with Kotlin (Ktor), python, Kotlin Multiplatform and linux<br/>
   📚 Interests: Flutter, Web Dev, IoT, AI & Networking <br/>
 </p>
 
@@ -21,28 +21,28 @@
 <h3>👨‍💻 Programming Languages</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dart,html,css,js,java,php" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,dart,ts,java,php,kotlin,go" />
   </a>
 </p>
 
 <h3>🚀 Frameworks & Libraries</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,dotnet" />
+    <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,dotnet,express,spring,laravel" />
   </a>
 </p>
 
 <h3>🗃️ Databases</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+    <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongo,redis" />
   </a>
 </p>
 
 <h3>🔧 Tools & Version Control</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,phpstorm,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,phpstorm,androidstudio,docker" />
   </a>
 </p>
 
@@ -57,6 +57,7 @@
     </td>
     <td align="center" width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannVanneth&layout=compact&theme=neon-dark" alt="Top Languages" />
+    />
     </td>
   </tr>
 </table>
