@@ -8,7 +8,7 @@
 
 <p>
   💻 I'm a passionate software developer who loves building apps, solving real-world problems, and learning new technologies. <br/>
-  🌱 Currently learning: Backend development with Kotlin (Ktor), python, Kotlin Multiplatform and linux<br/>
+  🌱 Currently learning: Retrieval Augmented Generation (RAG), Large Language Model (LLM), Backend development with Kotlin (Ktor), python, Kotlin Multiplatform and linux<br/>
   📚 Interests: Flutter, Web Dev, IoT, AI & Networking <br/>
 </p>
 
